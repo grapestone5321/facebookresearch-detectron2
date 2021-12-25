@@ -36,6 +36,28 @@ Detectron2 GitHub: https://github.com/facebookresearch/d...
 Cami's Twitter: http://twitter.com/cwillycs
 
 
+-------
+
+
+## Explain Like I’m 5: Detectron2
+https://www.youtube.com/watch?v=1oq1Ye7dFqc
+
+
+Meta Open Source
+
+n this video, Facebook Open Source Developer Advocate Cami explains the project Detectron2 in 90 seconds or less.
+
+- Project Links
+
+GitHub: https://github.com/facebookresearch/detectron2
+
+Tech Documentation: https://detectron2.readthedocs.io/en/latest/tutorials/getting_started.html
+
+Using Machine Learning with Detectron2: https://www.youtube.com/watch?v=eUSgtfK4ivk&t=0s
+
+Cami’s Twitter: http://twitter.com/cwillycs
+
+
 
 
 --------
